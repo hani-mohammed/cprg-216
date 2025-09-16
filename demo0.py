@@ -8,3 +8,4 @@ x = 3
 # Hey CPU, please print the value of x, remember it is 3, please 
 # print it to the screen.
 print(x) # function call 
+y = 5.4
