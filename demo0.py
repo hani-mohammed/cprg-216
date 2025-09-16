@@ -9,3 +9,4 @@ x = 3
 # print it to the screen.
 print(x) # function call 
 y = 5.4
+print(y)
